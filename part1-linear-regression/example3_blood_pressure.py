@@ -11,7 +11,6 @@ Run the program and consider the following questions:
 data = pd.read_csv("part1-linear-regression/blood_pressure_data.csv")
 x = data["Age"]
 y = data["Blood Pressure"]
-
 #sets the size of the graph
 plt.figure(figsize=(5,4))
 
